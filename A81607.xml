@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dolefull lamentation of cheap-side crosse: or old England sick of the staggers. The dissenting, and disagreeing in matters of opinion, together with the sundry sorts of sects now raving and reigning, being the maine causes of the disturbance and hinderance of the Common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81607</idno>
+            <idno type="STC">Wing D1837</idno>
+            <idno type="STC">Thomason E134_9</idno>
+            <idno type="STC">ESTC R15630</idno>
+            <idno type="EEBO-CITATION">99859900</idno>
+            <idno type="PROQUEST">99859900</idno>
+            <idno type="VID">156400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156400)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dolefull lamentation of cheap-side crosse: or old England sick of the staggers. The dissenting, and disagreeing in matters of opinion, together with the sundry sorts of sects now raving and reigning, being the maine causes of the disturbance and hinderance of the Common-wealth.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C. and T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page has a woodcut of Cheapside cross.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cheapside Cross (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156400:1"/>
+            <pb facs="tcp:156400:1" rendition="simple:additions"/>
+            <p>The dolefull Lamentation of Cheap-ſide Croſſe: Or old England ſick of the Staggers.</p>
+            <p>
+               <hi>The diſſenting, and diſagreeing in matters of opinion, together with the ſundry ſorts of Sects now raving and reigning be<g ref="char:EOLhyphen"/>ing the maine cauſes of the diſturbance and hinde<g ref="char:EOLhyphen"/>rance of the Common-wealth.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of Cheapside Cross</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. C.</hi> and <hi>T. B.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156400:2"/>
+            <head>The dolefull lamentation Of Cheap-ſide Croſſe. <hi>OR Old England ſick of the Staggers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a generall and common complaint, that trading, employment, and commerce in the Common-wealth is ſo aſtoniſhed and dead, that all Callings and Vocati<g ref="char:EOLhyphen"/>ons, are faine to make a ceſſation from their uſuall wayes and endevours, which they attribute to the preſent doubtful<g ref="char:EOLhyphen"/>neſſe and diſturbance of the Times, which were never ſo full of faction, deſtraction, and contradiction, as at this preſent, men being onely full of windie opinion, ſo that the world is growne into a new confuſed Chaos, or a Babell of balling, and fooliſh diſputing. Firſt, the Papiſt he thinkes there can be no ſalvation out of his Mother Church: and an old woman ſhe miſtakes her Mothers Church, for her mothers Church: then the poore Papiſts they crye up merits, becauſe they had a dole of pudding at ſuch a rich mans funerall: then your fine fellowes, together with Dancers, Muſicitians, Organiſts, and the like, they like well of Ceremonies and complementing with God: and ſome Countrie-men like well of Poperie, becauſe Ignorance is the mother of Devotion: thus as everie one abounds in his owne ſence, or in the ſence
+<pb n="2" facs="tcp:156400:2"/>of profit, ſo they will defend their owners in the blinde popiſh Religion. Againſt this blinde ſort of ignorant people ſteps out a <hi>Hydra,</hi> or multitude of proud and pre<g ref="char:EOLhyphen"/>ciſe Sects, who are all knowledge, and all eyes, loving nothing but their own ſilly fancies, accounting all things elſe prophanation and ſuperſtition, they are full of new wine, and a new ſpirit, new revellations, new formes of prayer; they thinke the old ones are worne thred-bare, and they are not tedious enough, nor full of tautologies of the Name of the Lord. This Sect can endure no croſſe but that on ſilver, and for <hi>Cheap-ſide Croſſe</hi> it is the abho<g ref="char:EOLhyphen"/>mination of the City, and Surpleſſes are Smocks of the whore of <hi>Rome;</hi> and every thing, tho never ſo laudable, and decent, and neceſſary, if contrary to their opinion, is by them accounted profane. They like none but ſanctified &amp; ſhuttle headed Weavers, long-winded Box-makers, and thorow-ſtitching Coblers, thumping Felt-makers, jerkin Coach-men, and round-headed Button makers, which ſpoyle Bibles, while they thumbe over the leaves with their greaſie fingers, and ſit by the fire-ſide ſcumming their porridge-pot, while their zeale ſeethes over in ap<g ref="char:EOLhyphen"/>plications and interpretations of Scriptures, delivered to their as ignorant wives and hand-maids, with the name and title of deare brethren, and eſpecially beloved ſiſters. But the world doth ſufficiently know their Characters, and Deſcription, and is ſenſible enough of the trouble and diſcord which they breed. But beſide theſe, there are di<g ref="char:EOLhyphen"/>vers fooliſh Sects and Schiſmaticks, whereof many par<g ref="char:EOLhyphen"/>take, and are favourers thereof. Nay, moſt men in matte s of opinion are divided one againſt another. One will do no good works becauſe the Papiſts doe them: another thinks good works are good, but will doe none, becauſe they are chargeable: a third makes faith a matter of Diſcourſe, but ſheweth none in his pious life an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conver<g ref="char:EOLhyphen"/>ſation; for <hi>quantum habet in arca tantum h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bet &amp; fidei,</hi> He hath ſo much faith as coyne hee hath in his Cheſt: A fourth will needes make himſelfe wiſe in Gods eternall Counſells, and all his friends ſhall bee of the Elect, but
+<pb n="3" facs="tcp:156400:3"/>his foes, and thoſe he bares any grudge unto, be accounts them Reprobates. Some againe will talke themſelves out of breath, in Scripture phraſes, and coxen the world with an hypocriticall ſanctity. Another loves faſting well but his fleſh better: and therfore he thinkes feaſting is very good and lawfull, eſpecially when our Laws com<g ref="char:EOLhyphen"/>mands faſting. Another imagines prayers a great helpe to Heaven, though they be never ſo briefe and compen<g ref="char:EOLhyphen"/>dious, but then another ſpirit would know how farre it is to heaven, that he might frame a long <hi>Babel</hi>-like prayer, made up with hums and hawes, that might reach up thither.</p>
+            <lg>
+               <l>Sixe of the purer, but of the weaker Sect,</l>
+               <l>One day had conference to this effect,</l>
+               <l>To change the old and ancient name of preaching</l>
+               <l>And firſt, the first would have it called teaching.</l>
+               <l>A ſecond, that ſame vulgar name diſpiſing,</l>
+               <l>Said ſhe would have it called Catechiſing:</l>
+               <l>A third, though not ſo learned, yet as wiſe,</l>
+               <l>Thought it more fit to call it Exerciſe.</l>
+               <l>The fourth, a moſt magnificent Corrector,</l>
+               <l>Said ſhe approv'd it beſt to call it Lector.</l>
+               <l>Nay, quoth the fifth, our brethren, as I heare</l>
+               <l>Doe call it Speaking i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Northampton</hi> ſhire.</l>
+               <l>Tuſh, quoth the ſixt, then Standing were more fit,</l>
+               <l>For Preachers ſeldome in the Pulpit ſit,</l>
+               <l>Then Standing let it be, cry'd all the reſt,</l>
+               <l>With one conſent applauding ſtanding beſt.</l>
+            </lg>
+            <p>It is eaſier to reckon up all the Species and kinds of na<g ref="char:EOLhyphen"/>ture, than to deſcribe all the Sects, Diviſions, and opini<g ref="char:EOLhyphen"/>ons in Religion, that is now in <hi>London;</hi> ſo that where<g ref="char:EOLhyphen"/>as there is but one truth, and one way l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading thereunto, they cannot agree about this one way, but error and vice being multiplyed manifold, they can all finde out thoſe wayes to a haire; ſo that the times remaine ſtill as cor<g ref="char:EOLhyphen"/>rupt in manners as ever they did: for pride hath made
+<pb n="4" facs="tcp:156400:3"/>them not onely ambitious to exceſſes of apparrell, but e<g ref="char:EOLhyphen"/>very woman getting a red Petticote over their ſhoulders will mount into the chaire of Divinity: what makes Artificers to be Preachers, by preſuming on the aſſiſtance of the Spirit, is it not the Spirit of pride? what makes them ſo ready to cenſure another tranſgreſſions, is it not the pride of their profeſſion? ſurely all their factions are but the deſtractions and madneſſe of their pride, that delights to rave in Pulpits, and to haue the libertie of tal<g ref="char:EOLhyphen"/>king blaſphemous nonſence, ſaying, O good Lord, little doſt thou know, how theſe ſinfull, proud, and leacherous Biſhops, if they had not beene ſuppreſſed, would have dealt with thy poore flock, ſuch as we are, filly and harm<g ref="char:EOLhyphen"/>leſſe men and women: but dear brethren and ſiſters, what<g ref="char:EOLhyphen"/>ſoever we doe let it be with zeale.</p>
+            <figure/>
+            <figure/>
+            <pb n="6" facs="tcp:156400:4"/>
+            <p> But where is this pious life, and Religion ſo much talkt of? Look into the world, and there is a generall confuſion or mixture of ſinne. Here you ſhall finde Drunkenneſſe eagerly diſputing in an Ale-houſe, ſitting upon the Bench, and condemning whom hee pleaſes, and what Religion he doth diſaffect: and then preciſeneſſe lookes down with his eyes, as if he were onely religious, when inwardly, a whore is not more deceitfull.</p>
+            <p>As for covetouſneſſe, rich men make that a part of their Religio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and adore gold as much as their God; Volup<g ref="char:EOLhyphen"/>tous wantonneſſe hath her Conventicles, where the Spi<g ref="char:EOLhyphen"/>rit enlightens the underſtanding to ſee a Siſter in the dark; and to wench with policie is but a City courteſie and a ci<g ref="char:EOLhyphen"/>vill humanity, yet there was never ſo much hatred of the Sinner, condemning themſelves therein in loving the ſame ſins, nay hatred of the reprobate is ſuch a ſigne of a good eſtate, that ſome are accounted religious onely for hating their Brethren. Then for hardneſſe of heart, and contempt of Gods word, the poor complayne of the one, and the Prieſts of the other, for the world is troubled with the ſtone that lies in the heart; which makes their charity dead, ſicke and ſo feeble; that it cannot ſtir it ſelfe in any good actions, and it is ſo mad with a ſuppoſition of knowledge, that whereas heretofore there was the Prieſts and the people, now the common people will be Prieſts, and becauſe they are ignorant they will deſpiſe Learning, Laſtly for lying, falſhood, and hypocriſie, it is accounted nothing but a familiar expreſſion, the gloſſe of trades, and the maintayner of life, <hi>Qui neſcit diſſimularae neſcit vivere.</hi>
+               <q>
+                  <l>How to live he cannot tell,</l>
+                  <l>That knowes not to diſſemble well.</l>
+               </q>
+            </p>
+            <p>Now from theſe premiſſes of diſcord and faction where truth is made the object of every contentious fancy, and ſo becomes opinion, needes muſt there proceed much tumult, much diviſion, and much diſtraction to the great diſgrace and ſcandall of the true Proteſtant Religion, and the glory and renowne which hath been in this Kingdom and to the encouragement of wicked people, who ſeeing that there are ſo many Sep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ratiſts and Sects, will therfore be of no religion; and another conſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quent is as was men<g ref="char:EOLhyphen"/>tioned
+<pb n="7" facs="tcp:156400:4"/>at the beginning, the hardneſſe and deadneſſe of the preſent times, there being no imployment but a generall doubtfulnes making every one put confidence in their pre<g ref="char:EOLunhyphen"/>ſent Eſtates, for where there is no unity, there can bee no peace or quietneſſe, and where there is no peace there can be no plenty amonſt the poor and inferiour ſort of people. Let us pray therefore unto God the Author of peace and lover of concord that hee would pleaſe to eſtabliſh unity in opinion, piety in profeſſion, and a generall conformi<g ref="char:EOLhyphen"/>ty to the Proteſtant Religion, to the glory of God and the peace and tranquillity of the Common-wealth of Eng<g ref="char:EOLhyphen"/>land.</p>
+            <p>
+               <hi>The dolefull Lamentation of</hi> Cheap-ſide <hi>Croſſe, which was baſely abuſed and wronged,</hi>
+            </p>
+            <p>
+               <hi>IIaſper Croſſe,</hi> ſcituated in <hi>Cheap-ſide, London,</hi> upon Munday night, being the 24 of <hi>Ianuarie,</hi> the ſigne be<g ref="char:EOLhyphen"/>ing in the head and face, which made me the more ſuffer; and in the yeare one thouſand ſixe hundred forty and one, when almoſt everie man is to ſeek a new Religion; and being then high water at <hi>London</hi> Bridge, as their braines and heads were full of malice and envy: I the foreſaid <hi>Iaſper Croſſe</hi> was aſſaulted and battered in the Kings high way, by many violent and inſolent minded people, or ra<g ref="char:EOLhyphen"/>ther ill-affected Brethren; and whether they were in their heighth of zeale, or elſe overcome with paſſion, or new wine lately come from <hi>New-England,</hi> I cannot be yet reſolved; but this I am ſure, and it may bee plainly ſeen by all that paſſe by me, that I was much abuſed and defaced, by a ſort of people which I cannot terme better than a mad and giddy headed multitude, who were ga<g ref="char:EOLhyphen"/>thered together from all parts, to wrong my antiquity, and ancient renowned name, ſo much ſpoken of in for<g ref="char:EOLhyphen"/>raine parts. Had I ever done theſe my Brethren the leaſt offence, I ſhould be ſorrie, and am ſtill willing to ſubmit and referre my ſelfe to the grave and moſt juſt Senators now aſſembled.</p>
+            <pb n="8" facs="tcp:156400:5"/>
+            <p> Love and charity, thoſe my brethren had none at all; for what benefit or credite did it bring to them to come by night like theeves, to ſteale from me here a leg, there a head, here an arm, and there a noſe; they did all goe away from mee the Croſſe with prefit: they have not done me ſo much diſhonor as they have done themſelves, and the honourable City, whoſe civill government is a patterne to all Nations: But I will tell you, my croſſe brethren, you both at that time wanted wit and money: wit to govern your hot and over-boyling zeale, and croſſe money to pay your Land-lords rent: that is a croſſe to you, not I: and ſo wanting ſuch croſſes as thoſe, would bee re<g ref="char:EOLhyphen"/>venged of me, to ſatisfie your malitious croſſe humours; I am but your ſtocking horſe, and colour for your future malice, your rage will not ceaſe though you ſhould pull mee downe, and make me levill with the ground: And when ſo done, then you wil cry out that there be croſſes in the goldſmiths ſhops; which is plate and jewels, ſtanding upon croſſe ſhelves, thoſe be the croſſes you intend, though your pretence be other wais: Next the Mercers ſhops whoſe Satten and Velvet lie a croſſe, and whoſe Counters are a croſſe their ſhops: Then the next croſſes which you will finde fault withall; will bee with thoſe rich monied men, whoſe bags lye croſe in their cheſts; then with their wives if they bee hand ſome which you will make to be croſſes too, in a ſhort ſpace: I ſay deare brethren, if you be ſuffered to pull downe all things that are acroſſe you will dare to pull a Magiſtrate of his horſe, becauſe he rides acroſſe his horſe back, and pull his chaine to peices becauſe it hangs acroſſe his ſhoulders, and if a millers horſe come to market with a ſack of corn acroſſe his horſe back, and if you ſay it is a croſſe, you then violently wil run and pul it down, and ſhare it as you have done part of me the croſſe: And at length then our Churches will prove croſſes to you, ſpecially if the have bin builded in popiſh times, &amp; ſo in proceſſe of time every thing wil be a croſſe to you that you either love or hate: But I will conclude with this caution that as long as we have ſuch croſs people, croſſe every way, eſpecially to Majeſtrates and men of Authority, and ſtill go unpuniſhed, we ſhall alwayes have ſuch croſſe doings, and ſo I poore <hi>Ieffery Croſſe</hi> leave you to your croſſe wives, and your owne croſſe opinions.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
